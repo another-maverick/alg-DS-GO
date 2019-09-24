@@ -18,6 +18,5 @@ func IsUnique(inpStr string) bool {
 }
 
 func main(){
-	IsUnique("USA")
+	IsUnique("Hey")
 }
-
